@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="schoolmanagement.Api/schoolmanagement.Api.csproj" />
+  <Project Path="Schoolmanagement.Services/Schoolmanagement.Services.csproj" />
+  <Project Path="Schoolmangenment.Entities/Schoolmangenment.Entities.csproj" />
+  <Project Path="Schoolmangenment.Repository/Schoolmangenment.Repository.csproj" />
+</Solution>
